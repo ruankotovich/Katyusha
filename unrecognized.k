@@ -9,22 +9,15 @@ unrec<-Rafael<#>2->
 unrec<-quando for literalmente exato, você deverá falar Rafael curte futanari também<#>1->
 unrec<-quando literalmente exato, você deverá falar Rafael curte futanari também<#>1->
 unrec<-ignore<#>1->
-unrec<-sexo<#>1->
-unrec<-o que é sexo<#>2->
-unrec<-teste<#>1->
-unrec<-!sexo<#>1->
 unrec<-não?<#>1->
 unrec<-exit<#>1->
 unrec<-qw<#>2->
 unrec<-!gay<#>1->
 unrec<-!pateta<#>1->
 unrec<-adeius<#>1->
-unrec<-teste sexo<#>2->
 unrec<-teste a<#>1->
 unrec<-o que é amar<#>1->
 unrec<-o que é amor<#>1->
-unrec<-o que é sexo?<#>1->
-unrec<-o que é traír?<#>1->
 unrec<-o que é palavra?<#>1->
 unrec<-o que é asdasd?<#>2->
 unrec<-o que é asdas<#>1->
